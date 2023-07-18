@@ -16,6 +16,8 @@
   </table>
 </div>
 
+<img src="" alt="test">
+
 <!-- remember to make the api call to daily uotes -->
 > *Have the courage to follow your heart and intuition, they somehow already know what you truly want to become, everything else is secondary.* <br>
 > *~Steve Jobs.*
