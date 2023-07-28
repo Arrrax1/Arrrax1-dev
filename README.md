@@ -3,8 +3,8 @@
 ### I'm <strong style="color:#1E90FF">Yacine Zerimi</strong>, my friends call me <strong style="color:violet;">Arax</strong>.
 <div> I'm a <strong style="color:violet;">Front-end</strong> <strong style="color:#1E90FF">Web Developer</strong>, Software Developer and Gym Enthusiast!</div>
 
-<img src="https://readmestats.onrender.com/bio?name=Yacine__Zerimi&skills=Front-End--Web__Developer--Software__Developer--Gym__Enthusiast&nick=Arrrax1&theme=dark#gh-dark-mode-only" width="100%"/>
-<img src="https://readmestats.onrender.com/bio?name=Yacine__Zerimi&skills=Front-End--Web__Developer--Software__Developer--Gym__Enthusiast&nick=Arrrax1&theme=dark#gh-light-mode-only" width="100%"/>.
+![](https://readmestats.onrender.com/bio?name=Yacine__Zerimi&skills=Front-End--Web__Developer--Software__Developer--Gym__Enthusiast&nick=Arrrax1&theme=dark#gh-dark-mode-only)
+![](https://readmestats.onrender.com/bio?name=Yacine__Zerimi&skills=Front-End--Web__Developer--Software__Developer--Gym__Enthusiast&nick=Arrrax1&theme=dark#gh-light-mode-only)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Arrrax1/Arrrax1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
